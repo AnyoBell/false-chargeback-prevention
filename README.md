@@ -119,7 +119,7 @@ New customer → +10 points
 - **Frontend:** React 18.3.1
 - **Risk Engine:** Rule-based algorithm (100% transparent)
 - **Styling:** Custom CSS (Square-inspired design)
-- **Deployment:** Netlify (zero-cost hosting)
+- **Deployment:** Netlify 
 - **Version Control:** Git + GitHub
 
 ---
@@ -191,14 +191,7 @@ This rule-based foundation can be enhanced with:
 
 ---
 
-## Real-World Impact
 
-If deployed at scale for Square merchants:
-
-📊 **Save 30-50%** of chargeback costs through prevention  
-📊 **Reduce false declines** by explaining risk factors  
-📊 **Improve merchant account health** (lower chargeback ratios)  
-📊 **Level the playing field** (small merchants get enterprise-grade protection)  
 
 ---
 
