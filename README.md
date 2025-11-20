@@ -1,7 +1,6 @@
-# false-chargeback-prevention
-An AI-powered tool designed to detect and prevent false chargebacks in Point of Sale (POS) transactions. This project helps businesses reduce fraudulent disputes by analyzing transaction data to identify and flag potentially false chargeback claims efficiently
 
-# 🛡️ Chargeback Alert System
+
+# Chargeback Alert System
 
 > AI-powered chargeback risk detection for merchants - Prevent false chargebacks before they happen
 
@@ -211,48 +210,6 @@ Chargebacks disproportionately hurt small merchants who can't absorb fraud losse
 
 This aligns perfectly with Block's mission of economic empowerment: **giving small merchants access to tools that were previously only available to big players.**
 
----
 
-## Built For
 
-**[Block Builder Fellowship](https://www.block.xyz/builder-fellowship)** - Showcasing risk analysis and merchant protection in fintech
 
----
-
-## Project Status
-
-🚀 **Demo:** Fully functional  
-📝 **Documentation:** Complete  
-🎨 **UI/UX:** Production-ready  
-🔧 **Code quality:** Clean, commented, tested  
-
----
-
-## 📫 Contact
-
-**Anyo Bell**  
-📧 anyobell@example.com *(update with your real email)*  
-💼 [LinkedIn](https://linkedin.com/in/anyobell) *(update with your profile)*  
-🐦 [Twitter](https://twitter.com/anyobell) *(update if you have one)*  
-
----
-
-## License
-
-MIT License - feel free to fork and build upon this!
-
----
-
-## ⚠️ Disclaimer
-
-This is a demonstration tool for educational purposes. Production fraud detection systems require:
-- Compliance with regulations (PCI-DSS, data privacy laws)
-- Rigorous testing with real merchant data
-- Legal/compliance review
-- Integration with payment processors
-
-Always consult legal and compliance experts before deploying fraud detection systems in production.
-
----
-
-**Built with ❤️ for Square merchants and the Block Builder Fellowship**
