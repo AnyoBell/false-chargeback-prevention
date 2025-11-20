@@ -103,8 +103,9 @@ New customer → +10 points
 ---
 
 ## Screenshots
+<img width="876" height="501" alt="Screenshot 2025-11-20 at 12 01 05 PM" src="https://github.com/user-attachments/assets/b28d7811-ace6-4ea5-aaee-8df61359f8cb" />
 
-### Transaction Analysis
+ Transaction Analysis
 *Coming soon - add after deployment*
 
 ### Risk Score Display
