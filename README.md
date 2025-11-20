@@ -22,12 +22,11 @@
 
 This system analyzes transactions **before processing** to identify patterns that typically lead to chargebacks:
 
-✅ Mismatched billing/shipping addresses  
-✅ High-value orders from new customers  
-✅ Customer chargeback history  
-✅ Card-not-present vs in-person transactions  
-✅ Suspicious transaction velocity  
-✅ High-risk geographic regions  
+ Mismatched billing/shipping addresses  
+ High-value orders from new customers  
+ Customer chargeback history  
+ Card-not-present vs in-person transactions  
+ Suspicious transaction velocity    
 
 **Result:** Merchants can flag risky transactions for additional verification, preventing chargebacks before they occur.
 
@@ -35,12 +34,12 @@ This system analyzes transactions **before processing** to identify patterns tha
 
 ## Why This Matters for Block/Square
 
-Square merchants face chargeback risk daily. This tool directly supports Block's mission by:
+Merchants face chargeback risk daily:
 
-🎯 **Protecting small businesses** from fraud losses  
-🎯 **Reducing chargeback rates** (keeps merchant accounts healthy)  
-🎯 **Improving payment security** without adding friction  
-🎯 **Empowering merchants** with AI-powered risk intelligence previously only available to large enterprises  
+ **Protecting small businesses** from fraud losses  
+ **Reducing chargeback rates** (keeps merchant accounts healthy)  
+ **Improving payment security** without adding friction  
+ **Empowering merchants** with AI-powered risk intelligence previously only available to large enterprises  
 
 ---
 
@@ -144,24 +143,18 @@ Visit `http://localhost:3000`
 
 ---
 
-## Architecture Decisions
-
-### Why Rule-Based Instead of ML?
-
 **For this demo:**
  **Transparent** - Merchants can see exactly why a transaction is flagged  
  **Fast** - No API latency or rate limits  
- **Reliable** - No dependency on external services  
- **Cost-effective** - Zero API costs  
+ **Reliable** - No dependency on external services   
  **Configurable** - Easy to tune for specific merchant needs  
 
 **Production Evolution:**
 This rule-based foundation can be enhanced with:
-- Machine learning models trained on merchant-specific data
 - Integration with Square's historical chargeback data
 - Real-time device fingerprinting
 - Email/phone verification APIs
-- AI-powered pattern recognition (GPT-4 for edge cases)
+- AI-powered pattern recognition 
 
 ---
 
@@ -171,10 +164,10 @@ This rule-based foundation can be enhanced with:
 **Solution:** Tiered risk levels - not every flag requires decline, just review
 
 **Challenge:** Making risk assessment transparent for merchants  
-**Solution:** Show exact factors and point values - no "black box" AI
+**Solution:** Show exact factors and point values 
 
 **Challenge:** Designing for real merchant workflows  
-**Solution:** Pre-loaded Square-style scenarios (coffee shop, online orders, gift cards)
+**Solution:** P
 
 ---
 
@@ -188,10 +181,6 @@ This rule-based foundation can be enhanced with:
 - [ ] **Device fingerprinting:** Track device IDs for repeat fraud patterns
 - [ ] **ML enhancement:** Add machine learning layer for pattern detection
 - [ ] **SMS alerts:** Notify merchants of critical risks in real-time
-
----
-
-
 
 ---
 
