@@ -69,13 +69,13 @@ New customer → +10 points
 
 ## Key Features
 
-✅ **Real-Time Risk Scoring** (0-100 scale with color-coded alerts)  
-✅ **Explainable AI** (shows exactly why a transaction is risky)  
-✅ **Risk Factor Detection** (identifies specific red flags)  
-✅ **Merchant Recommendations** (approve/review/decline guidance)  
-✅ **Square-Style Demo** (pre-loaded scenarios: coffee shop, electronics, gift cards)  
-✅ **Zero Dependencies** (no API keys required - runs 100% client-side)  
-✅ **Mobile Responsive** (works on any device)  
+ **Real-Time Risk Scoring** (0-100 scale with color-coded alerts)  
+ **Explainable AI** (shows exactly why a transaction is risky)  
+ **Risk Factor Detection** (identifies specific red flags)  
+ **Merchant Recommendations** (approve/review/decline guidance)  
+ **Square-Style Demo** (pre-loaded scenarios: coffee shop, electronics, gift cards)  
+ **Zero Dependencies** (no API keys required - runs 100% client-side)  
+ **Mobile Responsive** (works on any device)  
 
 ---
 
@@ -118,7 +118,7 @@ New customer → +10 points
 
 - **Frontend:** React 18.3.1
 - **Risk Engine:** Rule-based algorithm (100% transparent)
-- **Styling:** Custom CSS (Square-inspired design)
+- **Styling:** Custom CSS 
 - **Deployment:** Netlify 
 - **Version Control:** Git + GitHub
 
@@ -149,11 +149,11 @@ Visit `http://localhost:3000`
 ### Why Rule-Based Instead of ML?
 
 **For this demo:**
-✅ **Transparent** - Merchants can see exactly why a transaction is flagged  
-✅ **Fast** - No API latency or rate limits  
-✅ **Reliable** - No dependency on external services  
-✅ **Cost-effective** - Zero API costs  
-✅ **Configurable** - Easy to tune for specific merchant needs  
+ **Transparent** - Merchants can see exactly why a transaction is flagged  
+ **Fast** - No API latency or rate limits  
+ **Reliable** - No dependency on external services  
+ **Cost-effective** - Zero API costs  
+ **Configurable** - Easy to tune for specific merchant needs  
 
 **Production Evolution:**
 This rule-based foundation can be enhanced with:
