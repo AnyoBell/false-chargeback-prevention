@@ -105,7 +105,11 @@ New customer → +10 points
 ## Screenshots
 <img width="876" height="501" alt="Screenshot 2025-11-20 at 12 01 05 PM" src="https://github.com/user-attachments/assets/b28d7811-ace6-4ea5-aaee-8df61359f8cb" img width="880" 
 img>
+
 <img width="880" height="541" alt="Screenshot 2025-11-20 at 12 00 34 PM" src="https://github.com/user-attachments/assets/f9621375-2d04-40ae-9579-d9a072561c38" />
+
+<img width="876" height="577" alt="Screenshot 2025-11-20 at 12 00 13 PM" src="https://github.com/user-attachments/assets/f4324428-9169-48ee-83ef-6f723b8038ed" />
+
 
 
  Transaction Analysis
