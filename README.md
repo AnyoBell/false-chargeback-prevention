@@ -4,7 +4,6 @@
 
 > AI-powered chargeback risk detection for merchants - Prevent false chargebacks before they happen
 
-![Demo](https://img.shields.io/badge/demo-live-brightgreen) ![React](https://img.shields.io/badge/react-18.3.1-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## The Problem
 
