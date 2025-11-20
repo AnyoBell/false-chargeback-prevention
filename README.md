@@ -2,7 +2,7 @@
 
 # Chargeback Alert System
 
-> # AI-powered chargeback risk detection for merchants - Prevent false chargebacks before they happen
+> AI-powered chargeback risk detection for merchants - Prevent false chargebacks before they happen
 
 
 ## The Problem
