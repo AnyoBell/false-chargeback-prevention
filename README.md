@@ -9,8 +9,7 @@
 
 **Chargebacks cost merchants $31 billion annually.** By the time a chargeback happens, merchants have already:
 - Lost the product/service  
-- Paid processing fees ($15-100 per dispute)  
-- Damaged their merchant account standing  
+- Paid processing fees     
 - Spent hours fighting the dispute  
 
 **Small businesses can't absorb these losses.** Prevention is better than fighting disputes after the fact.
@@ -31,7 +30,7 @@ This system analyzes transactions **before processing** to identify patterns tha
 
 ---
 
-## Why This Matters for Block/Square
+## Why This Matters
 
 Merchants face chargeback risk daily:
 
@@ -66,12 +65,10 @@ New customer → +10 points
 ---
 
 ## Key Features
-
- **Real-Time Risk Scoring** (0-100 scale with color-coded alerts)  
+ 
  **Explainable AI** (shows exactly why a transaction is risky)  
  **Risk Factor Detection** (identifies specific red flags)  
- **Merchant Recommendations** (approve/review/decline guidance)  
- **Square-Style Demo** (pre-loaded scenarios: coffee shop, electronics, gift cards)  
+ **Merchant Recommendations** (approve/review/decline guidance)   
  **Zero Dependencies** (no API keys required - runs 100% client-side)  
  **Mobile Responsive** (works on any device)  
 
