@@ -103,7 +103,10 @@ New customer → +10 points
 ---
 
 ## Screenshots
-<img width="876" height="501" alt="Screenshot 2025-11-20 at 12 01 05 PM" src="https://github.com/user-attachments/assets/b28d7811-ace6-4ea5-aaee-8df61359f8cb" />
+<img width="876" height="501" alt="Screenshot 2025-11-20 at 12 01 05 PM" src="https://github.com/user-attachments/assets/b28d7811-ace6-4ea5-aaee-8df61359f8cb"
+ img width="880" height="541" alt="Screenshot 2025-11-20 at 12 00 34 PM" src="https://github.com/user-attachments/assets/f67b6a87-3bc7-482e-93af-f938b19148d4" />
+
+ />
 
  Transaction Analysis
 *Coming soon - add after deployment*
@@ -170,27 +173,6 @@ This rule-based foundation can be enhanced with:
 **Solution:** P
 
 ---
-
-## Future Improvements
-
-- [ ] **Dashboard view:** Track risk scores over time
-- [ ] **Batch processing:** Analyze multiple transactions at once
-- [ ] **Historical analysis:** Learn from merchant's actual chargeback history
-- [ ] **Integration APIs:** Connect with Square/Stripe webhooks
-- [ ] **Email verification:** Check if email domain matches billing region
-- [ ] **Device fingerprinting:** Track device IDs for repeat fraud patterns
-- [ ] **ML enhancement:** Add machine learning layer for pattern detection
-- [ ] **SMS alerts:** Notify merchants of critical risks in real-time
-
----
-
-## Why I Built This
-
-As someone passionate about fintech and accessibility, I wanted to explore how intelligent systems can protect small businesses—not just banks and large enterprises. 
-
-Chargebacks disproportionately hurt small merchants who can't absorb fraud losses. A coffee shop losing $1,000 to a false chargeback might be their entire day's profit.
-
-This aligns perfectly with Block's mission of economic empowerment: **giving small merchants access to tools that were previously only available to big players.**
 
 
 
