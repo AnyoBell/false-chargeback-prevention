@@ -171,7 +171,7 @@ This rule-based foundation can be enhanced with:
 **Solution:** Show exact factors and point values 
 
 **Challenge:** Designing for real merchant workflows  
-**Solution:** P
+**Solution:** 
 
 ---
 
